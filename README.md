@@ -7,7 +7,7 @@ Copyright 2023 Long Li.
 
 ### Dependencies
 
-* Prerequisites: Pytorch, Numpy, Matplotlib.
+* Prerequisites: Pytorch, Numpy, Scipy, netCDF4, Matplotlib.
 
 * Tested with Intel CPUs and Tesla V100-PCIE-32GB GPU.
 
